@@ -4,7 +4,7 @@
 ## 
 
 How to launch the program?
-python launcher.py no_of_instances instance_region activity
+python launch_instance.py no_of_instances instance_region activity
 
 The program accepts 3 command line arguments
 1. no of instances
